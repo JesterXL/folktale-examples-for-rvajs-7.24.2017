@@ -1,0 +1,26 @@
+{
+  "name": "folktale-examples-for-rvajs-7.24.2017",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha *.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JesterXL/folktale-examples-for-rvajs-7.24.2017.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JesterXL/folktale-examples-for-rvajs-7.24.2017/issues"
+  },
+  "homepage": "https://github.com/JesterXL/folktale-examples-for-rvajs-7.24.2017#readme",
+  "description": "",
+  "devDependencies": {
+    "chai": "^4.1.0",
+    "chai-as-promised": "^7.1.1",
+    "istanbul": "^0.4.5",
+    "mocha": "^3.4.2"
+  }
+}
